@@ -1,2 +1,2 @@
-<img src="https://github.com/amritraj7077-del/amritraj7077-del/blob/main/software-developer.png" alt="Developer Banner">
+<img src="https://i1-e.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg" alt="Anime Developer Banner" width="100%">
 
